@@ -1,6 +1,6 @@
 # MechaCar Statistical Analysis
 
-<img src=>
+<img src='https://github.com/skaram16/MechaCar_Statistical_Analysis/blob/main/Images/Car_Image.jpeg'>
 
 ## Linear Regression to Predict MPG
 I designed a linear model that predicts the mpg of MechaCar prototypes using vehicle length, vehicle weight, spoiler angle, ground clearance, and AWD as indpendent variables. Below is a summary of my results and a screenshot of the output. <br>
